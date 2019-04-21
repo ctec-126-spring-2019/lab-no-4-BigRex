@@ -46,7 +46,6 @@ function title1(){
 }
 
 
-
 function main(){
     let finalOutput = '' ; // used to build lyrics string
     // call verse and chorus functions

@@ -45,4 +45,4 @@ You Really Got Me
 You Really Got Me
 You Really Got Me
 
-+ chorus2(output)+chorus3+chorus1+chorus2+chorus3+chorus1+chorus2+chorus3
+
